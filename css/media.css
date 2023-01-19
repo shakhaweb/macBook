@@ -1,0 +1,30 @@
+@media (max-width : 1024px){
+    .container{
+        width: 1024px;
+    }
+
+}
+@media (max-width: 700px){
+    .container{
+        width: 700px;
+    }
+}
+@media (max-width : 320px){
+    .container{
+        width: 320px;
+    }
+    #h1{
+        font-size: 30px;
+    }
+    .block{
+        display: block;
+    }
+    .text p{
+        padding-top: 20px;
+        padding-left: 80px;
+    }
+    .text h2{
+        padding-left: 80px;
+        padding-top: 10px;
+    }
+}
